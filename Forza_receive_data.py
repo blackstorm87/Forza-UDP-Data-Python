@@ -4,7 +4,7 @@ from ForzaCar import convert_bytes_to_type, ForzaCarStats, gauge_bar
 
 #Configure Forza horizon to the same configurations as here
 
-localIP     = "192.168.8.220" #replace your network interface IP here 
+localIP     = "192.168.1.45" #replace your network interface IP here 
 localPort   = 10443
 bufferSize  = 1024 #may be able to make this smaller according to wireshark
 
